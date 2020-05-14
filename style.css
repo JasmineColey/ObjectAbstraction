@@ -1,1 +1,8 @@
 
+body{
+  background-image:linear-gradient(to bottom right, black, grey, white , black, grey, white);
+
+}
+.box{
+  padding: 200
+}
